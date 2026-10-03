@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/revat/OneDrive/Documents/Desktop/mysql-connector-j-26.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/OneDrive/Documents/Desktop/myconnector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/OneDrive/Documents/Desktop/rowsetconnector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/twilio-13.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/jackson-annotations-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/jackson-core-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/jackson-datatype-jsr310-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/httpcore5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/revat/Downloads/httpcore5-h2-5.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
